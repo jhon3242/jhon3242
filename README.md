@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello there~ 👋
 
+### I’m **Wonjun Choi**, a **backend developer**.
+
+I enjoy **comparing and discussing various options** to choose the **best approach**. <br>
+I love **receiving feedback** as it helps me **grow and improve continuously**. <br>
+I have strong **soft skills** and truly enjoy **communicating with my team members**.
 <!--
 **jhon3242/jhon3242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
