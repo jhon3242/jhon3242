@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&animation=fadeIn&height=320&section=header&text=Welcome%20to%20my%20page!&fontSize=50&fontAlign=50&fontAlignY=36&desc=I'm%20Wonjun%20Choi,%20backend%20developer)
+
 ## Hello there~ 👋
 
-### I’m **Wonjun Choi**, a **backend developer**.
+### I’m **Wonjun Choi**
 
 I enjoy **comparing and discussing various options** to choose the **best approach**. <br>
 I love **receiving feedback** as it helps me **grow and improve continuously**. <br>
